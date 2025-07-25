@@ -1,2 +1,2 @@
 # Sigma-practice
-this project is for practice 
+this project is for practice.
